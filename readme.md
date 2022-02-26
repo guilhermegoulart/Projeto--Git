@@ -1,1 +1,2 @@
-Olá, esse projeto tem por fim ensinar-me a usar o Git
+Olá, esse projeto tem o propósito de te ensinar a usar o Git
+Isso é uma alteração 
